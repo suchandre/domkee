@@ -1,0 +1,8 @@
+org\jrimum\domkee\comum\pessoa\id\cprf\TestCNPJ.class
+org\jrimum\domkee\financeiro\banco\febraban\TestAgencia.class
+org\jrimum\domkee\comum\pessoa\id\cprf\TestCPF.class
+org\jrimum\domkee\financeiro\banco\febraban\TestTipoDeTitulo.class
+org\jrimum\domkee\financeiro\banco\ParametrosBancariosMapTest$ParamBancTest.class
+org\jrimum\domkee\financeiro\banco\febraban\TestBanco.class
+org\jrimum\domkee\financeiro\banco\ParametrosBancariosMapTest.class
+org\jrimum\domkee\comum\pessoa\id\cprf\TestAbstractCPRF.class
